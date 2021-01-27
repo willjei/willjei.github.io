@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <title>Chung Chi Tang Student Canteen</title>
@@ -24,7 +23,7 @@ font-family: Georgia, Times New Roman,
      color:rgb(0, 0, 0)
     ">Chung Chi Tang Student Canteen</h1>
 
-   <ul class="navbar;"
+   <ul class="navbar";
     style="display: block;
     text-align: center;
     padding: 16px;
