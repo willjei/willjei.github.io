@@ -1,5 +1,3 @@
-# willjei.github.io
- MGNT3070
 <!DOCTYPE html>
 <html lang="en">
 <head>
